@@ -1,2 +1,2 @@
 # 2048
-2048 game in java
+This is the classic 2048 game, recreated in Java.
